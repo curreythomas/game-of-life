@@ -1,0 +1,90 @@
+body{
+  background-image: url(https://media.giphy.com/media/A1TLQFjrajmUM/giphy.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.header {
+  background-color: #222;
+  height: 150px;
+  padding: 10px;
+  color: white;
+}
+
+
+.title {
+  margin-bottom: 10px;
+}
+
+.box{
+  display: inline-block;
+  border: 1px solid black;
+  width: 15px;
+  height: 15px;
+  margin-left: -1px;
+  margin-bottom: -1px;
+}
+
+.alive{
+background-color: #222;
+}
+
+.dead{
+  background-color: white;
+}
+
+.box:hover{
+  background: darkgrey;
+}
+
+.center{
+  margin: auto;
+  display: table;
+  margin-top: 10px;
+}
+
+.grid{
+  line-height: 0;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.inputs{
+  width: 75px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+
+.createButton{
+  background-color: #00A699;
+  color: #000000;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+
+.buttons{
+  background-color: #00A699;
+  color: #000000;
+  margin-left: 10px;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+
+h1 {
+  color: white;
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  margin-top: 10px;
+}
+
