@@ -14,7 +14,7 @@ React-of-Life is a game created with react based on British Mathematician John H
 
 ## Prerequisites
 
-_**Node.js**_ - **These instructions assume you have Node >= 6 on your local machine**
+_**Node.js**_ - These instructions assume you have Node >= 6 on your local machine
 
 To check your version of node, run `node -v` in your terminal.
 
@@ -69,7 +69,7 @@ Throughout the code you will see boilerplate like this image below.
 * Line 9 is calling constructor to create an object in the component.
 * Line 10 calls super to access the keyword this and call functions within the constructor.
 
-![react-component](https://github.com/curreythomas/react-of-life/raw/master/public/react-component.png)
+![react-component](game-of-life/public/react-component.png)
 
 At the end of each component I export the component to pass to another component. That app component is passed to the index.js file where it is rendered through ReactDOM.render. The CSS for the entire application is also brought into the index.js file and passed down through the App component from here.
 
