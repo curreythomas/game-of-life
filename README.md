@@ -113,4 +113,4 @@ Finally you may click on any cell and toggle it from alive to dead and vice vers
 
 ## General Remarks
 
-This coding challenge proved to be a fun learning experience in many ways. Looking back, I would have planned out my app much better by breaking down the pieces earlier instead of trying to build the app top to bottom in one file. With that said, I did take the approach of getting it work and going back to refactor to make things easier to read and more concise.
+This coding challenge proved to be a fun learning experience in many ways. Looking back, I would have planned out my app much better by breaking down the pieces earlier instead of trying to build the app top to bottom in one file. With that said, I did take the approach of getting it to work and going back to refactor to make things easier to read and more concise.
