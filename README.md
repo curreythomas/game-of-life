@@ -1,6 +1,6 @@
-# React-of-Life
+# Game-of-Life
 
-React-of-Life is a game created with react based on British Mathematician John H. Conway's Game of Life. This game allows you to generate your "World" with rows and columns to see a wonderful evolution of "life" and hopefully cool patterns!
+Game-of-Life is a game created with react based on British Mathematician John H. Conway's Game of Life. This game allows you to generate your "World" with rows and columns to see a wonderful evolution of "life" and hopefully cool patterns!
 
 > ## Contents
 >
@@ -26,16 +26,16 @@ Download yarn: `npm install -g yarn`
 
 ## Getting Started
 
-Navigate to the repo here: [React-of-Life](https://github.com/curreythomas/react-of-life.git)
+Navigate to the repo here: [Game-of-Life](https://github.com/curreythomas/game-of-life)
 
 Clone the repo:
 
-`$ git clone https://github.com/curreythomas/react-of-life.git`
+`$ git clone https://github.com/curreythomas/game-of-life.git`
 
 Install Dependencies:
 
 ```#!/bin/bash
-  cd react-of-life
+  cd game-of-life
   yarn
 ```
 
