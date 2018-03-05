@@ -135,7 +135,7 @@ class App extends Component {
         */
             <div>
                 <header className='header'>
-                    <h1 className='title'>React-of-Life</h1>
+                    <h1 className='title'>Game-of-Life</h1>
                     <Inputs 
                         rows={this.state.rows}
                         cols={this.state.cols}
