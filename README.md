@@ -4,13 +4,13 @@ Game-of-Life is a game created with react based on British Mathematician John H.
 
 > ## Contents
 >
-> 1. [Prerequisites](#Prerequisites)
-> 1. [Getting Started](#Getting-Started)
-> 1. [Technologies used](#Technologies-Used)
-> 1. [Challenge Requirements](#Challenge-Requirements)
-> 1. [How to use the App](#How-to-use-the-App)
-> 1. [Future Improvements](#Future-Improvements)
-> 1. [General Remarks](#General-Remarks)
+> 1. [Prerequisites](#prerequisites)
+> 1. [Getting Started](#getting-started)
+> 1. [Technologies used](#technologies-used)
+> 1. [Challenge Requirements](#challenge-requirements)
+> 1. [How to use the App](#how-to-use-the-app)
+> 1. [Future Improvements](#future-improvements)
+> 1. [General Remarks](#general-remarks)
 
 ## Prerequisites
 
